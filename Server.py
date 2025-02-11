@@ -2,6 +2,8 @@ import socket
 import datetime
 import threading;
 
+# Derek Hunziker & Abrar Murad
+
 # server configuration
 
 # localhost address
